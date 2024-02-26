@@ -47,9 +47,22 @@ Allow firewall
 
 ```
 
+http://localhost:5050/login  to login and create db and tables
 
+### Set connection in a superset with Postgres
+
+1. Create settings->data connection
+2. Create Dataset
+3. Create Chart
+4. Create Dashboard
+
+![superset_postgres](https://github.com/mnhmilu/poc-superset-pentaho/assets/7475000/de845490-086e-44ab-9ce1-cf8b868414a5)
+
+![pgadmin](https://github.com/mnhmilu/poc-superset-pentaho/assets/7475000/19502b30-b05b-4f8f-8dad-74b1f92ef1e5)
 
 
 ### Reference:
 
 [Superset setup using Docker](https://github.com/developer-advocacy-dremio/quick-guides-from-dremio/blob/main/guides/superset-dremio.md)
+
+[PgAdmin with Docker](https://www.steadylearner.com/blog/how-to-set-up-postgresql-and-pgadmin-with-docker-51h)
