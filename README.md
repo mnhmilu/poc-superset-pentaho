@@ -60,6 +60,8 @@ http://localhost:5050/login  to login and create db and tables
 
 ![pgadmin](https://github.com/mnhmilu/poc-superset-pentaho/assets/7475000/19502b30-b05b-4f8f-8dad-74b1f92ef1e5)
 
+![dashboard](https://github.com/mnhmilu/poc-superset-pentaho/assets/7475000/1321f91e-90af-4035-a7f4-7e1e6b2b40fa)
+
 
 ### Reference:
 
